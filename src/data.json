@@ -1,0 +1,62 @@
+[
+  {
+    "id": 1,
+    "image": "/assets/images/first.jpg",
+    "clicked": false
+  },
+  {
+    "id": 2,
+    "image": "/assets/images/second.jpg",
+    "clicked": false
+  },
+  {
+    "id": 3,
+    "image": "/assets/images/third.jpg",
+    "clicked": false
+  },
+  {
+    "id": 4,
+    "image": "/assets/images/fourth.jpg",
+    "clicked": false
+  },
+  {
+    "id": 5,
+    "image": "/assets/images/fifth.jpg",
+    "clicked": false
+  },
+  {
+    "id": 6,
+    "image": "/assets/images/sixth.jpg",
+    "clicked": false
+  },
+  {
+    "id": 7,
+    "image": "/assets/images/seventh.jpg",
+    "clicked": false
+  },
+  {
+    "id": 8,
+    "image": "/assets/images/eighth.jpg",
+    "clicked": false
+  },
+  {
+    "id": 9,
+    "image": "/assets/images/ninth.jpg",
+    "clicked": false
+  },
+  {
+    "id": 10,
+    "image": "/assets/images/tenth.jpg",
+    "clicked": false
+  },
+  {
+    "id": 11,
+    "image": "/assets/images/eleventh.jpg",
+    "clicked": false
+  },
+  {
+    "id": 12,
+    "image": "/assets/images/twelfth.jpg",
+    "clicked": false
+  }
+]

@@ -1,0 +1,26 @@
+.nav {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    position: fixed;
+    top: 0;
+    width: 100%;
+    margin: 0;
+    padding: 0;
+    min-height: 50px;
+    background-color: rgb(30, 55, 136);
+}
+
+.nav div {
+    font-size: 24px;
+    color: white;
+    width: 33.3%;
+    text-align: center;
+};
+
+.homeLink {
+  text-decoration: none;
+  color: white;
+  font-size: 100px;
+}
+
